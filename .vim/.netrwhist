@@ -1,11 +1,2 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/usr/local/google/home/jdas/tee/google3/teeproject/proto'
-let g:netrw_dirhist_2='/usr/local/google/home/jdas/tee/google3/teeproject'
-let g:netrw_dirhist_3='/usr/local/google/home/jdas/tee/google3/java/com/google/tee/frontend'
-let g:netrw_dirhist_4='/usr/local/google/home/jdas/tee/google3/java/com/google/tee/frontend/client'
-let g:netrw_dirhist_5='/usr/local/google/home/jdas/tee/google3/java/com/google/tee/frontend/client/js'
-let g:netrw_dirhist_6='/usr/local/google/home/jdas/tee/google3/java/com/google/tee/frontend'
-let g:netrw_dirhist_7='/usr/local/google/home/jdas/tee/google3/java/com/google/tee/frontend/soyplugins'
-let g:netrw_dirhist_8='/usr/local/google/home/jdas/tee/google3/java/com/google/tee/frontend'
-let g:netrw_dirhist_9='/usr/local/google/home/jdas/tee/google3/java/com/google/tee/frontend/client'
+let g:netrw_dirhist_cnt =2
